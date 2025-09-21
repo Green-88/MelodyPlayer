@@ -3,7 +3,7 @@
 A **responsive web-based music player** built using **HTML, CSS, and JavaScript**.  
 This app allows users to **play, pause, skip, and navigate** through their songs with a clean and interactive interface.  
 
-🔗 **Live Demo:** [Melody Player](https://your-username.github.io/MelodyPlayer/)
+🔗 **Live Demo:** [Melody Player](https://green-88.github.io/MelodyPlayer/)
 
 ---
 
